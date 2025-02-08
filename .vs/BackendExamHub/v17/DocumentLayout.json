@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Models\\MyOfficeExecutionLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendExamHub\\Models\\MyOfficeExecutionLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Models\\MyOfficeACPD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendExamHub\\Models\\MyOfficeACPD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Data\\BackendExamHubDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendExamHub\\Data\\BackendExamHubDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Controllers\\MyOfficeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendExamHub\\Controllers\\MyOfficeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendExamHub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendExamHub\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\TSQLScript\\NewSID_\u81EA\u8A02\u4E00\u7D44\u56FA\u5B9A\u6B04\u4F4D\u7684\u4EE3\u78BC.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TSQLScript\\NewSID_\u81EA\u8A02\u4E00\u7D44\u56FA\u5B9A\u6B04\u4F4D\u7684\u4EE3\u78BC.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\TSQLScript\\NewSID_\u81EA\u8A02\u4E00\u7D44\u56FA\u5B9A\u6B04\u4F4D\u7684\u4EE3\u78BC.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TSQLScript\\NewSID_\u81EA\u8A02\u4E00\u7D44\u56FA\u5B9A\u6B04\u4F4D\u7684\u4EE3\u78BC.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyOfficeController.cs",
+              "DocumentMoniker": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Controllers\\MyOfficeController.cs",
+              "RelativeDocumentMoniker": "BackendExamHub\\Controllers\\MyOfficeController.cs",
+              "ToolTip": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Controllers\\MyOfficeController.cs",
+              "RelativeToolTip": "BackendExamHub\\Controllers\\MyOfficeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:53:40.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Program.cs",
+              "RelativeDocumentMoniker": "BackendExamHub\\Program.cs",
+              "ToolTip": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Program.cs",
+              "RelativeToolTip": "BackendExamHub\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:50:51.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyOfficeExecutionLog.cs",
+              "DocumentMoniker": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Models\\MyOfficeExecutionLog.cs",
+              "RelativeDocumentMoniker": "BackendExamHub\\Models\\MyOfficeExecutionLog.cs",
+              "ToolTip": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Models\\MyOfficeExecutionLog.cs",
+              "RelativeToolTip": "BackendExamHub\\Models\\MyOfficeExecutionLog.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:50:40.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyOfficeACPD.cs",
+              "DocumentMoniker": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Models\\MyOfficeACPD.cs",
+              "RelativeDocumentMoniker": "BackendExamHub\\Models\\MyOfficeACPD.cs",
+              "ToolTip": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Models\\MyOfficeACPD.cs",
+              "RelativeToolTip": "BackendExamHub\\Models\\MyOfficeACPD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:50:14.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackendExamHubDbContext.cs",
+              "DocumentMoniker": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Data\\BackendExamHubDbContext.cs",
+              "RelativeDocumentMoniker": "BackendExamHub\\Data\\BackendExamHubDbContext.cs",
+              "ToolTip": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\Data\\BackendExamHubDbContext.cs",
+              "RelativeToolTip": "BackendExamHub\\Data\\BackendExamHubDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:49:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendExamHub\\appsettings.json",
+              "ToolTip": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\BackendExamHub\\appsettings.json",
+              "RelativeToolTip": "BackendExamHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T05:59:11.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewSID_\u81EA\u8A02\u4E00\u7D44\u56FA\u5B9A\u6B04\u4F4D\u7684\u4EE3\u78BC.sql ",
+              "DocumentMoniker": "C:\\\u684C\u9762\\BackendExamHub\\BackendExamHub\\TSQLScript\\NewSID_\u81EA\u8A02\u4E00\u7D44\u56FA\u5B9A\u6B04\u4F4D\u7684\u4EE3\u78BC.sql",
+              "RelativeDocumentMoniker": "TSQLScript\\NewSID_\u81EA\u8A02\u4E00\u7D44\u56FA\u5B9A\u6B04\u4F4D\u7684\u4EE3\u78BC.sql",
+              "ToolTip": "NewSID_\u81EA\u8A02\u4E00\u7D44\u56FA\u5B9A\u6B04\u4F4D\u7684\u4EE3\u78BC.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-08T05:56:26.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

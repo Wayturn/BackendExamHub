@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IPeoigLYsD3R05QAcCJvLJBGk8hGPjYvoy4wVSrsfAI=",
+  "Source": "BackendExamHub",
+  "BasePath": "_content/BackendExamHub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

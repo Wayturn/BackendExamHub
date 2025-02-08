@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BackendExamHub",
+    "\\BackendExamHub\\bin",
+    "\\BackendExamHub\\Controllers",
+    "\\BackendExamHub\\Data",
+    "\\BackendExamHub\\Models",
+    "\\BackendExamHub\\obj",
+    "\\TSQLScript"
+  ],
+  "SelectedNode": "\\BackendExamHub\\Models\\MyOfficeExecutionLog.cs",
+  "PreviewInSolutionExplorer": false
+}
